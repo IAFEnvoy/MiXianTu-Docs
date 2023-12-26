@@ -1,3 +1,5 @@
-site_name: My Docs
+site_name: 觅仙途Docs
+site_url: https://mxt.iafenvoy.net/
 theme:
-  name: 'material'
+  name: "material"
+  language: "zh"
