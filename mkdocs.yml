@@ -1,5 +1,7 @@
 site_name: 觅仙途Docs
 site_url: https://mxt.iafenvoy.net/
+site_description: 觅仙途游戏文档
+site_author: 冰火使者IAFEnvoy
 theme:
   name: "material"
   language: "zh"
